@@ -1,0 +1,5 @@
+ivl_uvm_ovl_win_change_asr_fail.sv:11: warning: Port 7 (fire) of ovl_win_change expects 3 bits, got 1.
+ivl_uvm_ovl_win_change_asr_fail.sv:11:        : Padding 2 high bits of the port.
+warning: Found both default and explicit timescale based delays. Use
+       : -Wtimescale to find the design element(s) with no explicit
+       : timescale.

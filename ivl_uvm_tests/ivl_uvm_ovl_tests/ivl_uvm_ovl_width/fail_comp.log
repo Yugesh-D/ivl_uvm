@@ -1,0 +1,5 @@
+ivl_uvm_ovl_width_asr_fail.sv:9: warning: Port 5 (fire) of ovl_width expects 3 bits, got 1.
+ivl_uvm_ovl_width_asr_fail.sv:9:        : Padding 2 high bits of the port.
+warning: Found both default and explicit timescale based delays. Use
+       : -Wtimescale to find the design element(s) with no explicit
+       : timescale.
